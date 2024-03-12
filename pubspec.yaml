@@ -1,0 +1,36 @@
+name: habit_tracker
+description: "A new Flutter project."
+
+
+
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider:
+
+  cupertino_icons: ^1.0.2
+  hive_flutter:
+  hive:
+  flutter_slidable:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+    
+  hive_generator:
+  build_runner:
+  
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+  
+  uses-material-design: true
+
+  
